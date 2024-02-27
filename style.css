@@ -1,0 +1,53 @@
+
+*{
+margin:0;
+padding:0;
+}
+#contenedorgeneral{
+	width:1400px;
+	height:1000px;
+	background:#120401;
+	margin:0.5em auto;
+	padding:0.5em;
+}
+#cont1{
+	height:5%;
+	background:#F5CBA7 ;
+}
+#cont2{
+	height:20%;
+	background:#D3995A;
+}
+#cont3{
+	height: 25%;
+	background:#81561D ;
+
+}
+ul{
+background: #D2B4DE
+list-style:none;
+WIDTH:100%;
+}
+li{ 
+FLOAT:LEFT;
+POSITION: RELATIVE;
+WIDTH:AUTO;
+}
+	
+#BOTON{
+BACKGROUND:#D36F5A;
+COLOR:WHITE;
+FONT-STYLE:ITALIC;
+FONT-SIZE:16PX;
+FONT-WEIGHT:BOLD;
+PADDING:10PX 50PX;
+DISPLAY:BLOCK;
+}
+#FONDO
+<img
+  src="images/Ttaza.jpg"
+  alt="taza de cafe"
+  width="400"
+  height="341"
+  title="cafeteria" />
+	
